@@ -67,6 +67,7 @@ export default function Home() {
 
         {/* Hack to generate custom classes */}
         <span className="hidden hover:bg-[#000000] hover:bg-[#38BDF8] hover:bg-[#0065A9]  hover:bg-[#6A01DA] hover:bg-[#1D1D1D]  hover:bg-[#22BC66] hover:bg-[#4354C7]  hover:bg-[#090E24] hover:bg-[#363B45] hover:bg-[#4E26E0]" />
+        {/* above color code is only to render css in page, there is no use of this */}
 
         <div className="grid grid-cols-2 md:grid-cols-4 gap-2 lg:gap-4 mb-10 ">
           <StackCrad
